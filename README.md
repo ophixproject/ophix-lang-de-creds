@@ -1,10 +1,12 @@
 # ophix-lang-de-creds
 
+> Deutsches Übersetzungspaket für ophix-creds.
+
 German translation pack for [ophix-creds](https://ophix.io).
 
 ## Install
 
-```
+```bash
 pip install ophix-lang-de-creds
 ```
 
