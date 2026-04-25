@@ -17,3 +17,8 @@ Then set `LANGUAGE_CODE = "de"` in your server `.env`.
 - Admin UI strings: app name, inline labels, column headers, fieldset titles
 - Help text strings from `ophix-server-base` (ClientArtifactBase fields)
 - Documentation pages: credentials guide, legacy upgrade guide
+
+## Documentation
+
+- [Anmeldeinformationen](src/ophix_lang_de_creds/docs/credentials.md)
+- [Upgrade vom alten Credserver](src/ophix_lang_de_creds/docs/legacy-upgrade.md)
