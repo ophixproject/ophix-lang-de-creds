@@ -1,7 +1,7 @@
 ---
 title: Upgrade vom alten Credserver
 slug: legacy-upgrade
-order: 99
+order: 110
 section: Anmeldeinformationen
 ---
 
