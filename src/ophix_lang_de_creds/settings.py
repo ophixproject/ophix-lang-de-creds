@@ -1,1 +1,1 @@
-LANGUAGES = [("de", "German")]
+LANGUAGES = [("de", "Deutsch")]
